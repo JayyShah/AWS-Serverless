@@ -1,0 +1,3 @@
+["s3://[ENTER YOUR BUCKET NAME HERE]/input/dataset_en_dev.json",
+ "s3://[ENTER YOUR BUCKET NAME HERE]/output/reviews/reviews_by_productcategory/",
+"s3://[ENTER YOUR BUCKET NAME HERE]/output/reviews/productcategory_topreview/"]
